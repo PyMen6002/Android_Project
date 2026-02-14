@@ -32,8 +32,5 @@ Thumbs.db
 *.tmp
 *.temp
 
-# Local TTS/runtime binaries and models (heavy, machine-specific)
+# Local TTS runtime binaries
 piper/
-
-# If you want to keep config JSON for models tracked, remove this line
-voices/*.onnx.json
