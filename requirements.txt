@@ -1,0 +1,4 @@
+﻿requests
+simpleaudio
+SpeechRecognition
+# PyAudio  # opcional: necesario para micrófono en muchos entornos
